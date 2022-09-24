@@ -15,5 +15,3 @@ git add Readme.md
 ```
 git commit -am "добавили описание добавления файла в git"
 ```
-
-4. sdfasdfasdf asdfasdfasdf asdfasdfasdf
